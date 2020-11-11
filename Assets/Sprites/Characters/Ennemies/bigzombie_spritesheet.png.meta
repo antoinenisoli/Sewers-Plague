@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 8b2843b1a2eaeb84c8e39ead5c17409d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5755420093236653542
+    second: bigzombie_spritesheet_0
+  - first:
+      213: 3051991128276503268
+    second: bigzombie_spritesheet_1
+  - first:
+      213: -718508295285476192
+    second: bigzombie_spritesheet_2
+  - first:
+      213: -5706403568990624639
+    second: bigzombie_spritesheet_3
+  - first:
+      213: 2317764953176991661
+    second: bigzombie_spritesheet_4
+  - first:
+      213: -3475689908026524333
+    second: bigzombie_spritesheet_5
+  - first:
+      213: 5612092719198094094
+    second: bigzombie_spritesheet_6
+  - first:
+      213: 8099372420710240176
+    second: bigzombie_spritesheet_7
+  - first:
+      213: -5077950295857298440
+    second: bigzombie_spritesheet_8
+  - first:
+      213: -8065027476453291059
+    second: bigzombie_spritesheet_9
+  - first:
+      213: 9109111026412695202
+    second: bigzombie_spritesheet_10
+  - first:
+      213: -6940695700052752362
+    second: bigzombie_spritesheet_11
+  - first:
+      213: 1288946896963752844
+    second: bigzombie_spritesheet_12
+  - first:
+      213: 8427065811604486604
+    second: bigzombie_spritesheet_13
+  - first:
+      213: -4110404837905546863
+    second: bigzombie_spritesheet_14
+  - first:
+      213: 3517208213456109975
+    second: bigzombie_spritesheet_15
+  - first:
+      213: 4354631168716220393
+    second: bigzombie_spritesheet_16
+  - first:
+      213: -6036996334253969219
+    second: bigzombie_spritesheet_17
+  - first:
+      213: -8719058049308140313
+    second: bigzombie_spritesheet_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41a098d5957f044a133819303c3e37
+      internalID: -5755420093236653542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1050
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a8186be6f43e4db66c031e905f4b8
+      internalID: 3051991128276503268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1050
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc6455e34ca8044b07170e5a39e392
+      internalID: -718508295285476192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1050
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4ebac7ce181544b0135f35525265f
+      internalID: -5706403568990624639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1050
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf383dc46f60c499f8319a9a6e1748
+      internalID: 2317764953176991661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20310661e702aee4588fd64a5d6c8909
+      internalID: -3475689908026524333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 700
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63715a0943722f74e8825d2ea6550a7c
+      internalID: 5612092719198094094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 700
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394cb5d72eb31cb49b9c99df7e61630c
+      internalID: 8099372420710240176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 700
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa045de1d460854daae5e3981351048
+      internalID: -5077950295857298440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 700
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70ebc7bc1ceae43952f30eabe4df68
+      internalID: -8065027476453291059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c51be7e01c0474dbd426ae049d1b86
+      internalID: 9109111026412695202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda9f4eb80ec83b4c9fd6a821feb9f57
+      internalID: -6940695700052752362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 350
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e4864269c3cf47aa8c84ae136d97b
+      internalID: 1288946896963752844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 350
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ab0ac9f20432438855bce959667eb
+      internalID: 8427065811604486604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 350
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d0351e7c3d534580c3fe7a59b7cd1
+      internalID: -4110404837905546863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e0b409896383248bceaac055b54c3e
+      internalID: 3517208213456109975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d0c5788e56944fa895fd582069ab5
+      internalID: 4354631168716220393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f71f78e1a242149b819d6d34013a8d
+      internalID: -6036996334253969219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigzombie_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 420
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f7c269e37f4ac42904b43ecd6d62e4
+      internalID: -8719058049308140313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

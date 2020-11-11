@@ -1,0 +1,8 @@
+diff a/SewersPlague/Assets/VFX.meta b/SewersPlague/Assets/VFX.meta	(rejected hunks)
+@@ -1,5 +1,5 @@
+ fileFormatVersion: 2
+-guid: b106dbcdcd307e145afeb3d85effec0c
++guid: 4d9e4e433db571040860592c3b40b3c7
+ folderAsset: yes
+ DefaultImporter:
+   externalObjects: {}
